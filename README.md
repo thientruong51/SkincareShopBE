@@ -29,7 +29,7 @@
 ## Project setup
 
 ```bash
-$ npm install
+$ npm install --legacy-peer-deps
 ```
 
 ## Compile and run the project
